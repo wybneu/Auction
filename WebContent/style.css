@@ -1,0 +1,107 @@
+@CHARSET "ISO-8859-1";
+body  {
+	margin: 0; 
+	padding: 0;
+	text-align: center;
+	color: #000000;
+}
+
+.twoColLiqLtHdr #container { 
+	width: 90%;  
+	background: #FFFFFF;
+	margin: 0 auto; 
+	border: 1px solid #000000;
+	text-align: left; 
+} 
+.twoColLiqLtHdr #header {
+	padding: 0 0;
+	background-color: #069;
+	text-align: center;	
+} 
+.twoColLiqLtHdr #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+}
+
+.twoColLiqLtHdr #sidebar1 {
+	float: left; 
+	width: 24%;
+	background: #EBEBEB; 
+	padding: 5px 0px; 
+}
+.twoColLiqLtHdr #login {
+	float: left;
+	width: 85%;
+	padding: 15px 10px;
+	background-color: #FC6;
+	margin-left: 5px;
+}
+.twoColLiqLtHdr #menu {
+	float: left;
+	text-align: center;
+	width: 85%;
+	padding: 15px 10px;
+	margin-top: 5px;
+	background-color: #EBEBEB;
+	display: inline;
+}
+.twoColLiqLtHdr #sidebar1 h3, .twoColLiqLtHdr #sidebar1 p {
+	margin-left: 10px; 
+	margin-right: 10px;
+}
+
+.twoColLiqLtHdr #mainContent { 
+	margin-left: 15px;
+	padding: 5px 5px;
+}
+.search { 
+	  float: right;
+	  text-align: center;
+	 width: 71%;
+	 padding: 5px 5px;
+	  margin-top: 5px;
+	
+		margin-right: 10px;
+}
+.tabletype #head{
+
+}
+.tabletype #maintable{
+	width: 95%;
+	border: 3;
+}
+.tabletype #column{
+
+}
+.tabletype #row{
+
+}
+.twoColLiqLtHdr #footer { 
+	padding: 0 10px; 
+	background:#DDDDDD;
+} 
+.twoColLiqLtHdr #footer p {
+	margin: 0;
+	padding: 10px 0; 
+}
+.login {
+	margin: 0; 
+	padding: 0;
+	text-align: center;
+	color: #000000;
+}
+
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
